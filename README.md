@@ -1,4 +1,4 @@
-# Checkpoint 01 - Análise de Dados de Consumidores de Energia  
+# Checkpoint 04 - Análise de Dados de Consumidores de Energia  
 
 ## 📌 Descrição  
 Este repositório contém as resoluções do **Checkpoint 01** da disciplina de Inteligência Artificial.  
@@ -11,7 +11,7 @@ Utilizamos **Python** (Google Colab) e a plataforma **Orange Data Mining** para 
 ## 👩‍💻 Integrantes da equipe  
 - Maria Eduarda [RM558832]
 - Laura de Oliveira [RM558843]
-- Vinicius Saes  [554456]
+- Vinicius Saes  [RM554456]
 
 ---
 
