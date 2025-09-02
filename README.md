@@ -32,5 +32,3 @@ Utilizamos **Python** (Google Colab) e a plataforma **Orange Data Mining** para 
 - **Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels**  
 - **Orange Data Mining**  
 
-
-## 📂 Estrutura do Repositório  
